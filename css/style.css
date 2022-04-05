@@ -1,5 +1,5 @@
 /*
-Theme Name: Cemre Bakery Theme
+Theme Name:  Chai N Pani Theme
 Theme URI: https://bakery.cemreworks.com
 Author: Cemre Tellioğlu Tunçay
 Author URI: https://cemreworks.com
@@ -9,6 +9,8 @@ Author URI: https://cemreworks.com
 * GENERAL AND HEADER START
 * ==========================================
 */
+
+
 
 
 .fixedArea {
@@ -1651,3 +1653,11 @@ li.footer-section a:focus p{
 */
 
 
+.single-slide {
+  background-repeat: round;
+}
+
+.brandlogo {
+  max-width: 75px;
+  max-height: 55px;
+}
